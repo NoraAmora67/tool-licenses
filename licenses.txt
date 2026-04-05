@@ -1,2 +1,2 @@
 noor:noor123:active
-ahmed:789789:active
+ahmed:789789:inactive
