@@ -1,1 +1,1 @@
-noor:noor:active
+noor:noor:inactive
