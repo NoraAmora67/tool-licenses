@@ -1,3 +1,2 @@
 noor:noor123:active
-Test2:456456:active
 ahmed:789789:active
