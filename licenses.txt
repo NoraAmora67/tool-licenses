@@ -1,3 +1,2 @@
 Noor:0dbdd9b2b02f867537db8cea4f5c1780:active
-Abo R3D:521d815bca980a9aa39bc71222b03da8:active
-Test:TEST123:active
+Abo R3D:521d815bca980a9aa39bc71222b03da8:inactive
