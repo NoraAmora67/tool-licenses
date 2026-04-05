@@ -1,2 +1,2 @@
-noora:noor123:imactive
+noora:noor123:inactive
 akhmed:pass456:active
